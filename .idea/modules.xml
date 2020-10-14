@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/JavaWed01/JavaWed01.iml" filepath="$PROJECT_DIR$/JavaWed01/JavaWed01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Project01.iml" filepath="$PROJECT_DIR$/Project01.iml" />
       <module fileurl="file://$PROJECT_DIR$/maven-test/maven-test.iml" filepath="$PROJECT_DIR$/maven-test/maven-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavendemo/mavendemo.iml" filepath="$PROJECT_DIR$/mavendemo/mavendemo.iml" />
     </modules>
   </component>
 </project>
